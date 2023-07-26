@@ -1,0 +1,433 @@
+CRITICAL - 2023-07-26 18:30:28 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:30:34 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:33:30 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:33:35 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:33:43 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:39:14 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:39:15 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:39:21 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:41:08 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:41:09 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:41:11 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:43:01 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:43:25 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:43:30 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:43:37 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:12 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:13 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:13 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:19 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\Crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:41 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:42 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:42 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:43 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:44:43 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:46:01 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:48:31 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:48:32 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:48:32 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:48:36 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:48:43 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:49:50 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:49:55 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:50:18 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:50:19 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:50:28 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:50:30 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:50:31 --> Class "App\Models\MahasiswaModel" not found
+in APPPATH\Controllers\crud.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Crud->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:53:48 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:54:00 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:55:39 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 18:56:09 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:01:14 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:01:25 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:02:19 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:02:30 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:04:40 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:04:48 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:05:29 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:07:21 --> Call to a member function findAll() on null
+in APPPATH\Controllers\crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:07:37 --> Undefined property: App\Controllers\Crud::$db
+in APPPATH\Controllers\crud.php on line 35.
+ 1 APPPATH\Controllers\crud.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Crud::$db', 'C:\\xampp\\htdocs\\prakweb\\app\\Controllers\\crud.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:09:06 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:09:32 --> Call to a member function insert() on null
+in APPPATH\Controllers\crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:10:33 --> Call to a member function findAll() on null
+in APPPATH\Controllers\crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:11:48 --> Call to a member function findAll() on null
+in APPPATH\Controllers\crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:15:30 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:15:34 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:15:37 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:15:42 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:16:47 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:16:48 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Crud.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
+CRITICAL - 2023-07-26 19:17:00 --> Call to a member function insert() on null
+in APPPATH\Controllers\Crud.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Crud->tambah()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakweb\\public\\index.php')
